@@ -1,5 +1,5 @@
-import getAssistans from "./get.assistans.js"
-getAssistans();
+import groupByGroupName from "./get.groups";
+groupByGroupName;
 
-import filterByGroupName from "./filter.groups.js"
-filterByGroupName();
+import getAssistans from "./get.assistans";
+getAssistans();
